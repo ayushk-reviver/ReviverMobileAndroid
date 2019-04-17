@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d13a10d5-f6f3-4255-b5a6-946330cabede" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mobile/Android/login/test_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mobile/Android/login/labels.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mobile/Android/login/login_TestData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mobile/Android/login/locators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="55" column="144" selection-start-line="55" selection-start-column="144" selection-end-line="55" selection-end-column="144" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mobile/Android/login/page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="51" lean-forward="true" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wait</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Files/__init__.py" />
+        <option value="$PROJECT_DIR$/Mobile/Android/test_login.py" />
+        <option value="$PROJECT_DIR$/Mobile/Android/locators.py" />
+        <option value="$PROJECT_DIR$/mobiletestlib/core/assertions.py" />
+        <option value="$PROJECT_DIR$/Mobile/Android/login/test_C8275.py" />
+        <option value="$PROJECT_DIR$/mobiletestlib/core/base.py" />
+        <option value="$PROJECT_DIR$/Mobile/Android/login/conftest.py" />
+        <option value="$PROJECT_DIR$/mobiletestlib/settings/android.py" />
+        <option value="$PROJECT_DIR$/Mobile/Android/login/locators.py" />
+        <option value="$PROJECT_DIR$/Mobile/Android/login/page.py" />
+        <option value="$PROJECT_DIR$/Mobile/Android/login/login_TestData.py" />
+        <option value="$PROJECT_DIR$/Mobile/Android/login/labels.py" />
+        <option value="$PROJECT_DIR$/Mobile/Android/login/test_login.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="160" />
+    <option name="y" value="86" />
+    <option name="width" value="960" />
+    <option name="height" value="518" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ReviverAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReviverAndroid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReviverAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReviverAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="Mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReviverAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReviverAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="Mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="Android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReviverAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReviverAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="Mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="Android" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReviverAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReviverAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="mobiletestlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReviverAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReviverAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="mobiletestlib" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReviverAndroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReviverAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="mobiletestlib" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mobile/Android" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PYprojs\ReviverAndroid\Mobile\Android\login" />
+      <recent name="D:\PYprojs\ReviverAndroid\mobiletestlib\core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PYprojs\ReviverAndroid\Mobile\Android" />
+      <recent name="D:\PYprojs\ReviverAndroid" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_login.TestLogin.test_C8276_Verify_User_Can_Enter_Invalid_Password">
+    <configuration name="pytest for test_C8275.TestVerifyUserCanEnterValidPassword.test_verify_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ReviverAndroid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mobile/Android/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_C8275.TestVerifyUserCanEnterValidPassword.test_verify_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.TestLogin.test_C8275_Verify_User_Can_Enter_Valid_Password" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ReviverAndroid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mobile/Android/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_C8275_Verify_User_Can_Enter_Valid_Password&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.TestLogin.test_C8276_Verify_User_Can_Enter_Invalid_Password" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ReviverAndroid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mobile/Android/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_C8276_Verify_User_Can_Enter_Invalid_Password&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.TestLogin.test_app_launch" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ReviverAndroid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mobile/Android/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_app_launch&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ReviverAndroid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mobile/Android/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Mobile/Android/login&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_login.TestLogin.test_app_launch" />
+      <item itemvalue="Python tests.pytest in login" />
+      <item itemvalue="Python tests.pytest for test_C8275.TestVerifyUserCanEnterValidPassword.test_verify_login" />
+      <item itemvalue="Python tests.pytest for test_login.TestLogin.test_C8275_Verify_User_Can_Enter_Valid_Password" />
+      <item itemvalue="Python tests.pytest for test_login.TestLogin.test_C8276_Verify_User_Can_Enter_Invalid_Password" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_login.TestLogin.test_C8276_Verify_User_Can_Enter_Invalid_Password" />
+        <item itemvalue="Python tests.pytest for test_login.TestLogin.test_C8275_Verify_User_Can_Enter_Valid_Password" />
+        <item itemvalue="Python tests.pytest for test_login.TestLogin.test_app_launch" />
+        <item itemvalue="Python tests.pytest for test_C8275.TestVerifyUserCanEnterValidPassword.test_verify_login" />
+        <item itemvalue="Python tests.pytest in login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d13a10d5-f6f3-4255-b5a6-946330cabede" name="Default Changelist" comment="" />
+      <created>1554291689571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554291689571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_login_TestLogin_test_app_launch - 2019.04.16 at 16h 17m 59s.xml">
+      <configuration name="pytest for test_login.TestLogin.test_app_launch" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_login_TestLogin_test_C8275_Verify_User_Can_Enter_Valid_Password - 2019.04.16 at 17h 07m 11s.xml">
+      <configuration name="pytest for test_login.TestLogin.test_C8275_Verify_User_Can_Enter_Valid_Password" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_login_TestLogin_test_C8275_Verify_User_Can_Enter_Valid_Password - 2019.04.16 at 17h 07m 54s.xml">
+      <configuration name="pytest for test_login.TestLogin.test_C8275_Verify_User_Can_Enter_Valid_Password" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_login_TestLogin_test_C8275_Verify_User_Can_Enter_Valid_Password - 2019.04.16 at 17h 12m 44s.xml">
+      <configuration name="pytest for test_login.TestLogin.test_C8275_Verify_User_Can_Enter_Valid_Password" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_login_TestLogin_test_C8275_Verify_User_Can_Enter_Valid_Password - 2019.04.16 at 17h 14m 38s.xml">
+      <configuration name="pytest for test_login.TestLogin.test_C8275_Verify_User_Can_Enter_Valid_Password" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_login_TestLogin_test_C8275_Verify_User_Can_Enter_Valid_Password - 2019.04.17 at 13h 05m 06s.xml">
+      <configuration name="pytest for test_login.TestLogin.test_C8275_Verify_User_Can_Enter_Valid_Password" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_login_TestLogin_test_C8275_Verify_User_Can_Enter_Valid_Password - 2019.04.17 at 14h 46m 49s.xml">
+      <configuration name="pytest for test_login.TestLogin.test_C8275_Verify_User_Can_Enter_Valid_Password" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_login_TestLogin_test_C8275_Verify_User_Can_Enter_Valid_Password - 2019.04.17 at 14h 49m 34s.xml">
+      <configuration name="pytest for test_login.TestLogin.test_C8275_Verify_User_Can_Enter_Valid_Password" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_login_TestLogin_test_C8275_Verify_User_Can_Enter_Valid_Password - 2019.04.17 at 16h 24m 09s.xml">
+      <configuration name="pytest for test_login.TestLogin.test_C8275_Verify_User_Can_Enter_Valid_Password" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_login_TestLogin_test_C8276_Verify_User_Can_Enter_Invalid_Password - 2019.04.17 at 16h 25m 21s.xml">
+      <configuration name="pytest for test_login.TestLogin.test_C8276_Verify_User_Can_Enter_Invalid_Password" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12260128" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.15969989" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.26152197" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.19185424" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3290461" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Files/.idea/modules.xml" />
+    <entry file="file://$PROJECT_DIR$/Files/.idea/mobileAutom.iml" />
+    <entry file="file://$PROJECT_DIR$/Files/mobileAndroid.py" />
+    <entry file="file://$PROJECT_DIR$/Files/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/mobiletestlib/core/pyrobot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1003">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiletestlib/core/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mobile/Android/login/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mobileAutom/mobileAndroid.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mobileAutom/page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mobile/Android/login/.pytest_cache/v/cache/nodeids">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="45" lean-forward="true" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiletestlib/core/adb_commands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mobile/Android/login/test_C8275.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mobile/Android/login/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiletestlib/settings/android.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="52" lean-forward="true" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiletestlib/core/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#1#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobiletestlib/core/assertions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="273" lean-forward="true" selection-start-line="273" selection-end-line="273" />
+          <folding>
+            <element signature="e#30#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mobile/Android/login/locators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="55" column="144" selection-start-line="55" selection-start-column="144" selection-end-line="55" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mobile/Android/login/page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="51" lean-forward="true" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mobile/Android/login/login_TestData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mobile/Android/login/labels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mobile/Android/login/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
